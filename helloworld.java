@@ -10,5 +10,6 @@ class Hello
       System.out.println("first");
     else
       System.out.println("second");
+    System.out.println("this is if");
   }
 }
