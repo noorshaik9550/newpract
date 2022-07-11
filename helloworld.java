@@ -6,6 +6,11 @@ class Hello
     System.out.println("hi");
     System.out.println("bye");
     
+    if(20<10)
+      System.out.println("first");
+    else
+      System.out.println("second");
+    System.out.println("this is if");
     System.out.println("this is main");
   }
 }
