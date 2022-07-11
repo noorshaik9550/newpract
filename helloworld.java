@@ -11,5 +11,6 @@ class Hello
     else
       System.out.println("second");
     System.out.println("this is if");
+    System.out.println("this is main");
   }
 }
